@@ -1,0 +1,9 @@
+{
+  "symbol":"xcp.guardiancard",
+  "name":"Age of Chains Card 001: Woodcoin's Guardian",
+  "module":"counterparty",
+  "mode":"counterparty.token",
+  "contract":”$CONTRACT",
+  "originator":"198G9eUjQuCn9Y21Pj4z6Cbx5JxnkoeQWL",
+  "factor":0
+}
